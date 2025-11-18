@@ -7,6 +7,7 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 - <b>PowerShell</b><br/>
 - <b>Active Directory</b><br/>
 - <b>Splunk Enterprise</b><br/>
+- <b>Elastic Stack (ELK)</b><br/>
 - <b>Wireshark</b><br/>
 
 
@@ -35,6 +36,12 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 - <b>Indroduction to EDR</b> Learned the fundamentals of Endpoint Detection and Response (EDR). Reviewed capabilities of EDR solutions and what happens after detection. Investigated a sample EDR Dashboard on TryHackMe's interactive site.<br/><br/>
 - <b>Introduction to SIEM:</b> Reviewed the core functions of a Security Information and Event Management system (SIEM), including the centralization of log sources and how alerting and dashboards help with correlating data about security events. Discovered log sources in Windows Event Viewer and Linux Cron Logs. Investigated events and alerts in TryHackMe's interactive SIEM site, categorizing them as true positive or false positive.<br/><br/>
 - <b>Splunk: The Basics:</b> Learned the components of Splunk, such as Splunk Forwarder, Splunk Indexer, Search Head, Splunk Bar, and Apps Panel. Created an index of VPN logs in a Splunk Enterprise instance. Correlated the data based on username, IP address, and country.<br/><br/>
+
+
+- <b>Elastic Stack: The Basics:</b> Learned how SOC analysts use Elastic Stack (ELK) for log investigations. Created an index in ELK to display logs for vpn connections and filtered logs to show data such as IP addresses, usernames, and locations. Reviewed the basiscs of KQL to perform more advanced searches in the index. Created visualizations and custom dashboards to display visualized data in ELK.<br/><br/>
+
+
+- <b>Introduction to SOAR:</b> Explored how SOC teams use Security Orchestration, Automation, and Response (SOAR) to unify security tools and operate within a single interface. Used the TryHackMe interactive site to create playbooks for a sample workflow.<br/><br/>
 
 
 </b><br/>
