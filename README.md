@@ -9,6 +9,7 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 - <b>Active Directory</b><br/>
 - <b>Splunk Enterprise</b><br/>
 - <b>Elastic Stack (ELK)</b><br/>
+- <b>CyberChef<b><br/>
 - <b>Wireshark</b><br/>
 
 
@@ -81,7 +82,35 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 <h3>Core SOC Solutions</h3>
 
 
-- <b>Pyramid of Pain:</b> Learned the Pyramid of Pain concept from the perspectives of a threat hunter, incident responder, and SOC analyst.<br/><br/>
+- <b>Pyramid of Pain:</b> Learned the Pyramid of Pain concept from the perspectives of a threat hunter, incident responder, and SOC analyst. Used VirusTotal and any.run to review hashing algorithms, IP addresses, domain names, host artifacts, network artifacts, and TTPs. Used the TryHackMe interactive website to complete an activity to reinforce concepts.<br/><br/>
+
+
+- <b>Cyber Kill Chain:</b> Explored the attack phases of the Cyber Kill Chain including reconnaissance, weaponization, delivery, exploitation, installation, command & control, and actions on objectives. Completed a lab on the TryHackMe website for proof of concept.<br/><br/>
+
+
+- <b>Unified Kill Chain:</b> Learned critical cybersecurity concepts including threat modeling and kill chain frameworks such as Unified Kill Chain (UKC), Lockheed Martin, and MITRE ATT&CK. Completed a scenario in the TryHackMe website for proof of concept.<br/><br/>
+
+
+- <b>MITRE:</b> Reviewed MITRE's cybersecurity frameworks and resources such as the MITRE ATT&CK Framework, Cyber Analytics Repository (CAR), and MITRE D3FEND. Learned about the various projects the MITRE organization designed for cyber security professionals.<br/><br/>
+
+
+- <b>Summit:</b> Used the concepts of the Pyramid of Pain and MITRE to analyze sample malware files in a simulated internal lab environment. Followed each level of the Pyramid of Pain to prevent the malware from executing in the environment.<br/><br/>
+
+- <b>Eviction:</b> Analyzed TTPs of the APT group APT28. Used the MITRE ATT&CK Navigator to identify TTPs in an internal environment and stop the simulated threat actor from intruding into the netowrk.<br/><br/>
+<br/>
+<br/>
+
+
+<h3>Phishing Analysis</h3>
+
+
+- <b>Phishing Analysis Fundamentals:</b>  Analyzed the basic components of phishing emails. Reviewed email message protocols such as SMTP, POP3, and IMAP. Used phishing emails in a controlled lab environment to review email headers, email addresses, and source code. Determined the different types of malicious emails such as spam, phishing, spear phishing, whaling, smishing, and vishing.<br/><br/>
+
+
+- <b>Phishing Emails in Action:</b> Reviewed actual phishing emails in a lab enviornment to find malicious URLs, TTPs, and attachments sent by threat actors.<br/><br/>
+
+
+- <b>Phishing Analysis Tools:</b> Reviewed actual phishing emails in a lab enviornment to find malicious URLs, TTPs, and attachments sent by threat actors.<br/><br/>
 
 
 
