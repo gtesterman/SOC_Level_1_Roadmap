@@ -110,8 +110,16 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 - <b>Phishing Emails in Action:</b> Reviewed actual phishing emails in a lab enviornment to find malicious URLs, TTPs, and attachments sent by threat actors.<br/><br/>
 
 
-- <b>Phishing Analysis Tools:</b> Reviewed actual phishing emails in a lab enviornment to find malicious URLs, TTPs, and attachments sent by threat actors.<br/><br/>
+- <b>Phishing Analysis Tools:</b> Analyzed more samples of real phishing emails using a controlled lab environment. Used tools such as message headers, VirusTotal, CyberChef, and AnyRun to report on three different phishing cases.<br/><br/>
 
+
+- <b>Phishing Prevention:</b> Reviewed core email security controls such as SPF, DKIM, DMARC, and S/MIME. Used Wireshark filters to search through SMTP response codes and find email attachments.<br/><br/>
+
+
+- <b>The Greenholt Phish:</b> Used an Ubuntu lab enviornment to analyze and report on a phishing email sample. Documented the originating email address, IP, and IP owner. Analyzed the email attachment to reveal file size, extention, and hash value (SHA256).<br/><br/>
+
+
+- <b>Snapped Phish-ing Line:</b> Completed a challenge scenario based off a real-world phishing campaign. Connected to an isolated VM environemnt and analyzed the emails for key indicators such as IP addresses, malicious URLs, files of the phishing kit, and email addresses used by the adversary.<br/><br/>
 
 
 </b><br/>
