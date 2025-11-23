@@ -122,4 +122,22 @@ Project consists of completing the SOC Level 1 Roadmap by TryHackMe. This roadma
 - <b>Snapped Phish-ing Line:</b> Completed a challenge scenario based off a real-world phishing campaign. Connected to an isolated VM environemnt and analyzed the emails for key indicators such as IP addresses, malicious URLs, files of the phishing kit, and email addresses used by the adversary.<br/><br/>
 
 
+- <b>Phishing Unfolding</b>
+<br/>
+<br/>
+
+
+<h3>Network Traffic Analysis</h3>
+
+
+- <b>Network Traffic Basics:</b> Learned the basics of Network Traffic Analysis, why network traffic should be analyzed, and how to analyze network traffic at different layers including the application, transport, internet, and link layers. Explored different network flows and sources to better understand network traffic. Completed an activity in the TryHackMe website to review traffic analysis basics.<br/><br/>
+
+
+- <b>Wireshark: The Basics:</b> Reviewed the basics of Wireshark and how the tool can be used to discover information at different layers of TCP/IP. Used a sample .pcapng file in a lab environment to investigate packet details and report on filtered HTTP traffic in the application.<br/><br/>
+<img width="1443" height="1489" alt="image" src="https://github.com/user-attachments/assets/494cb305-ed3a-45ca-86e1-adcb379853d9" /><br/>
+
+
+
+
+
 </b><br/>
